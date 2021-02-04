@@ -10,7 +10,7 @@
     <item>
       <title>Janis Sketch Library</title>
       <pubDate>Thu, 04 Feb 2020 11:19:04 +0000</pubDate>
-      <enclosure url="mysketchlibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="https://github.com/manuelvilche/fizzmod-sketch/blob/master/janisLibraryV2Minify.sketch" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
