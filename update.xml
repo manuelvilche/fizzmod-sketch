@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Janis Sketch Library</title>
+    <description>Janis Sketch Library</description>
+    <image>
+      <title>Janis Sketch Library</title>
+    </image>
+    <generator>Sketch</generator>
+    <item>
+      <title>Janis Sketch Library</title>
+      <pubDate>Thu, 04 Feb 2020 11:19:04 +0000</pubDate>
+      <enclosure url="mysketchlibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
+    </item>
+  </channel>
+</rss>
